@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY app/* /usr/share/nginx/html/
+COPY project/* /usr/share/nginx/html/
